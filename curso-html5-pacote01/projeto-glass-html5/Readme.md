@@ -16,3 +16,5 @@
 ()font-size : altera o tamanho do texto
 ()color : altera a cor do texto
 ()text-shadow (deslocamento lateral) [tamanho em pixel] (deslocamento vertical)[tamanho em pixel] (espalahmento da sombra)[tamanho em pixel] [cor] : coloca uma sombra na escrita
+
+cu
